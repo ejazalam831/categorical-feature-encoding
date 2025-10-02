@@ -49,3 +49,5 @@ scikit-learn
 | Nominal | 10+ categories | Target Encoding | Reduces dimensionality |
 | Ordinal | Any size | Ordinal Encoding | Maintains natural order |
 
+## Contributing
+Suggestions and improvements are welcome! Feel free to open an issue or submit a pull request.
